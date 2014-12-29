@@ -1,4 +1,4 @@
-Py-RAN-Task
+py-ran-task
 ===========
 
 The script is basically an adapation (or hack) of a Python program created by Titus Von der Malsburg (originally for the [operation span task](https://github.com/tmalsburg/py-span-task)). Py-RAN-Task can be used for testing the Rapid Automatized Naming task on a computer with Python (and tkSnack for recording the audio).  
