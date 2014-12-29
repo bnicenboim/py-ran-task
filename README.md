@@ -5,4 +5,4 @@ The script is basically an adapation (or hack) of a Python program created by Ti
 
 ## Available configuration file
 
-- Rapid Automatized Naming task of letters and numbers with Spanish instructions as used in Nicenboim, Vasishth, Gattei, Sigman, and Kliegl ([submitted, 2014](http://www.ling.uni-potsdam.de/~nicenboim/bib/NicenboimEtAl2014-differences.pdf))
+- Rapid Automatized Naming task of letters and numbers with [Spanish instructions](https://github.com/bnicenboim/py-ran-task/tree/master/Spanish-lettersnumbers) as used in Nicenboim, Vasishth, Gattei, Sigman, and Kliegl ([submitted, 2014](http://www.ling.uni-potsdam.de/~nicenboim/bib/NicenboimEtAl2014-differences.pdf))
